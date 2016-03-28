@@ -1,6 +1,6 @@
 # MotionControllerSample
 MotionControllerComponentのサンプル  
-UE4.10.4 + HTC Vive
+UE4.11 Preview8 + HTC Vive
 
 ## できること
 - ものを掴んだり離したりできます  
@@ -19,5 +19,6 @@ UE4.10.4 + HTC Vive
 
 
 ## その他
+- BulletTrain式のコリジョン判定法を採用
 
 @pafuhana1213
