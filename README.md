@@ -4,7 +4,7 @@ UE4.11 Preview8 + HTC Vive
 
 ## できること
 - ものを掴んだり離したりできます  
-[![](http://img.youtube.com/vi/TNNJlbu31iI/0.jpg)](https://www.youtube.com/watch?v=TNNJlbu31iI)
+https://twitter.com/pafuhana1213/status/714482651000807425
 
 ## Debug機能
 - コリジョン範囲の調整
