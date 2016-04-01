@@ -1,6 +1,6 @@
 # MotionControllerSample
 MotionControllerComponentのサンプル  
-UE4.11 Preview8 + HTC Vive
+UE4.11.0 + HTC Vive
 
 ## できること
 - ものを掴んだり離したりできます  
